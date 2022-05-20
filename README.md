@@ -1,4 +1,4 @@
-# SL-DFConversations-
+# Supervised Learning Model for Detecting Futile Conversations in Task-oriented Conversational Systems
 
 This repository contains data sources, and results for a project under publication process.
 
