@@ -15,4 +15,4 @@ In this project, we use two pre-trained word representations and they are availa
 2) Glov300d (https://nlp.stanford.edu/projects/glove/).
 
 
-Results are shown in four figures in folder "Results"
+Results are shown in three figures in folder "Results"
